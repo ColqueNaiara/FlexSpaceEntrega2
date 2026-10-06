@@ -1,4 +1,4 @@
-﻿namespace FlexSpace.DAL
+﻿namespace FlexSpace.BLL
 {
     public class Puesto
     {
